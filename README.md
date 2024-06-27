@@ -1,4 +1,4 @@
-<img width="1268" alt="results" src="https://github.com/yeoxiongyun/microfluidic-GUI/assets/84406436/97edbf91-944e-4fa3-a45f-d6f26c378091"># Feasibility Study of Microfluidic Circuit by Simulation
+# Feasibility Study of Microfluidic Circuit by Simulation
 
 **Project Description**
 A Python-based Graphical User Interface (GUI) designed to facilitate the simulation of microfluidic circuits. The GUI was developed using the Tkinter module and aims to simplify the parametrization process for microfluidic circuit simulations.
