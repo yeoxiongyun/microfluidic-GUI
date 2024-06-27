@@ -38,12 +38,6 @@ Here is a simple example of how to use the GUI:
 4. Simulate by clicking the "Run Simulation" button and view the results.
 
 
-https://github.com/yeoxiongyun/microfluidic-GUI/assets/84406436/493c1636-9bf1-4cb0-a000-621a81e6f611
-
-https://github.com/yeoxiongyun/microfluidic-GUI/assets/84406436/26f64cac-35b2-451e-bbaa-33f1ac9a1cea
-
-
-
 
 ## License
 Not allowed for commercial purposes. Only for academic research.
