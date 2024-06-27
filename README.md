@@ -1,6 +1,6 @@
 # Feasibility Study of Microfluidic Circuit by Simulation
 
-**Project Description**
+## Project Description
 A Python-based Graphical User Interface (GUI) designed to facilitate the simulation of microfluidic circuits. The GUI was developed using the Tkinter module and aims to simplify the parametrization process for microfluidic circuit simulations.
 
 The GUI serves as an interface for:
