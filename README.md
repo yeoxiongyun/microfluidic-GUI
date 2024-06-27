@@ -1,4 +1,4 @@
-# Feasibility Study of Microfluidic Circuit by Simulation
+<img width="1268" alt="results" src="https://github.com/yeoxiongyun/microfluidic-GUI/assets/84406436/97edbf91-944e-4fa3-a45f-d6f26c378091"># Feasibility Study of Microfluidic Circuit by Simulation
 
 **Project Description**
 A Python-based Graphical User Interface (GUI) designed to facilitate the simulation of microfluidic circuits. The GUI was developed using the Tkinter module and aims to simplify the parametrization process for microfluidic circuit simulations.
@@ -28,6 +28,9 @@ The GUI serves as an interface for:
 * **Channels**: Straight and bent channels connecting the ports.
 * **Chambers**: Areas where fluids can mix.
 * **Valves**: Control fluid flow between channels.
+
+<img width="500" alt="interface" src="https://github.com/yeoxiongyun/microfluidic-GUI/assets/84406436/fff2bd2a-b1a9-4497-a504-bc5b0f75988f">
+<img width="500" alt="interface" src="https://github.com/yeoxiongyun/microfluidic-GUI/assets/84406436/e2b30014-b780-4d42-b586-ce654ece8260">
 
 ### Example
 Here is a simple example of how to use the GUI:
